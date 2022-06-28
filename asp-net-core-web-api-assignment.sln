@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarsAPI", "CarsAPI\CarsAPI.csproj", "{5EF97A34-F8E8-4C46-9643-CB91E8F0EF39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZensarProducts-Core-API", "ZensarProducts-Core-API\ZensarProducts-Core-API.csproj", "{37D18F93-4AE1-44BF-8723-9B7A4A010E6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EF97A34-F8E8-4C46-9643-CB91E8F0EF39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF97A34-F8E8-4C46-9643-CB91E8F0EF39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF97A34-F8E8-4C46-9643-CB91E8F0EF39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF97A34-F8E8-4C46-9643-CB91E8F0EF39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37D18F93-4AE1-44BF-8723-9B7A4A010E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37D18F93-4AE1-44BF-8723-9B7A4A010E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37D18F93-4AE1-44BF-8723-9B7A4A010E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37D18F93-4AE1-44BF-8723-9B7A4A010E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E37C3C20-6335-41A6-8245-53F1ACFA8806}
+	EndGlobalSection
+EndGlobal
